@@ -1,4 +1,4 @@
-package khvci.northwind.api.controller;
+package khvci.northwind.api.controllers;
 import khvci.northwind.business.abstracts.ProductService;
 import khvci.northwind.entities.concretes.Product;
 import org.springframework.beans.factory.annotation.Autowired;
